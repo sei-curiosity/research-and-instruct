@@ -30,3 +30,8 @@ For each team are going to talk and explain 2 main topics, you will have 30 minu
 ### projectX
 - What is JSON? 
 - What is MVC? Explain the idea behind the MVC
+
+
+### Developers
+- What is a DNS Server?
+- Domain Name vs Web Hosting
